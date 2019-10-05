@@ -8,10 +8,14 @@ This algorithm is not for a diagnostic use.
 
 ## Install
 
-- Ensure git and git-lfs is installed.
 - Ensure numpy and tensorflow-gpu is installed.
 - Clone this repository.
 - `python setup.py build_ext --inplace` to compile Cython code.
+- Download a H5 file (resnet152_pascal.h5) into `snapshots` directory.
+
+H5 file can be downloaded from:
+https://github.com/detection-mammography/keras-retinanet-trained-algorithm/releases/tag/v0.1-mammography
+
 
 ## Usage
 `python inference.py`
