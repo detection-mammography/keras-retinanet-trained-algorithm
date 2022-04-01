@@ -32,5 +32,5 @@ This algorithm was published on https://journals.plos.org/plosone/article?id=10.
 ## Special thanks
 This research is supported by following contributors.
 
-YEBIS.XYZ, tech vein, Osakan Space, Workflow-Design LLC
+YEBIS.XYZ, tech vein, Osakan Space, Workflow-Design LLC  
 Chinatsu Aida, Hitoshi Ando, Yukiko Ida, Taichi Kakinuma, Taroo Takahara, Yosie Kizaki, Eri Kusano, Ayako Yamakake
